@@ -2,10 +2,10 @@
 menu:
   归档: /archives
 rss: /atom.xml
-title: GARY.SHEN
+title: 🐱Home
 
-author: GARY.SHEN
-aboutme: Halo~
+author: Guile Ho
+aboutme: Hi~
 
 # Content
 excerpt_link: 全文...
@@ -13,10 +13,9 @@ fancybox: true
 date_format: 'YYYY年MM月DD日'
 
 socials:
-  github: "https://github.com/gary-Shen"
-  flickr: "https://www.flickr.com/photos/69944455@N05/"
-  email: "guanlinshen@126.com"
-  wechat: "Grinson"
+  github: "https://github.com/fuguimashu"
+  email: "fuguimashu@gmail.com"
+  wechat: "heguile"
 
 
 
