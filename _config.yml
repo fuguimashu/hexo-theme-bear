@@ -1,7 +1,6 @@
 # Header
 menu:
-  历史文章: /archives
-  分类: /tags
+  归档: /archives
 rss: /atom.xml
 title: 🐱Home
 
